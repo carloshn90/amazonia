@@ -1,8 +1,8 @@
 import './App.css';
 import React from 'react';
 import {Layout} from "antd";
-import AppHeader from "./Components/menu/header/AppHeader";
-import ProductList from "./Components/content/product-list/ProductList";
+import AppHeader from "./components/menu/header/AppHeader";
+import ProductList from "./components/content/product-list/ProductList";
 
 const {Content} = Layout;
 
