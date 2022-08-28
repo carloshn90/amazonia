@@ -1,0 +1,11 @@
+.header-logo {
+    float: left;
+    margin-top: -2px;
+}
+.ant-menu {
+    background-color: #dadada !important;
+}
+
+.ant-layout-header {
+    background-color: white !important;
+}
